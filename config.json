@@ -1,0 +1,8 @@
+{
+    "SECRET": "Ntalk",
+    "KEY": "ntalk.sid",
+    "MAX_AGE": {
+      "maxAge": 3600000
+    },
+    "REDIS": "redis://ntalk:qDGDgWaY2ipd6-j@redis-10678.c14.us-east-1-3.ec2.cloud.redislabs.com:10678"
+  }
